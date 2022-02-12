@@ -5,7 +5,7 @@ Please install numpy via ```pip install numpy```
 Please use python at least 3.9, prefer 3.10
 
 ## Usage of ```numpy``` and ```SequenceMatcher```
-numpy read binary file really efficient.
+```numpy``` read binary file really efficient.
 
 This is similar to the problem longest common substring. However, I found that the function ```find_longest_match``` of the ```SequenceMatcher``` is much more efficient than I could write, so I use it to improve efficiently.
 
